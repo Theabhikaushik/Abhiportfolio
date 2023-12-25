@@ -430,4 +430,11 @@ body.dark-mode {
      .footer{
       padding:0;
      }
+    .leftsection{
+      margin:0;
+     }
+
+     .secondsection{
+      margin:0;
+     }
   }
